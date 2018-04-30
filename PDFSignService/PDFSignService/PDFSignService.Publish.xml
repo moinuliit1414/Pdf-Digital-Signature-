@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Published\PDFSignService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="PDFSignServicePublish" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="04/18/2018 14:28:22" />
+    <file relUrl="bin/SynesisIT.Infrastructure.Logger.dll" publishTime="04/18/2018 14:28:15" />
+    <file relUrl="bin/SynesisIT.PDFSign.pdb" publishTime="04/18/2018 14:28:15" />
+    <file relUrl="bin/Content/PDF/DulalChandraPanday.p12.bak_1" publishTime="07/21/2015 14:01:24" />
+    <file relUrl="packages.config" publishTime="04/11/2018 17:03:38" />
+    <file relUrl="bin/SynesisIT.PDFSign.dll" publishTime="04/18/2018 14:28:15" />
+    <file relUrl="bin/itextsharp.dll" publishTime="11/20/2017 16:18:21" />
+    <file relUrl="bin/SynesisIT.Infrastructure.Logger.pdb" publishTime="04/18/2018 14:28:15" />
+    <file relUrl="log4net.config" publishTime="04/17/2018 17:46:05" />
+    <file relUrl="PDFSignService.svc" publishTime="11/20/2017 18:06:01" />
+    <file relUrl="bin/log4net.dll" publishTime="04/16/2018 11:29:06" />
+    <file relUrl="bin/log4net.xml" publishTime="04/16/2018 11:29:06" />
+    <file relUrl="bin/log4net.config" publishTime="04/17/2018 17:46:05" />
+    <file relUrl="bin/PDFSignService.dll" publishTime="04/18/2018 14:28:16" />
+    <file relUrl="bin/Content/PDF/input.txt" publishTime="11/20/2017 18:47:47" />
+    <file relUrl="bin/Content/PDF/DulalChandraPanday.p12" publishTime="07/21/2015 14:01:24" />
+    <file relUrl="Content/PDF/input.txt" publishTime="11/20/2017 18:47:47" />
+    <file relUrl="bin/Content/PDF/DulalChandraPanday.p12.bak" publishTime="07/12/2015 15:44:11" />
+    <file relUrl="bin/PDFSignService.pdb" publishTime="04/18/2018 14:28:16" />
+    <file relUrl="bin/itextsharp.xml" publishTime="11/20/2017 16:18:21" />
+  </publishProfile>
+</publishData>

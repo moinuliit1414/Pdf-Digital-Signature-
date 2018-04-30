@@ -1,0 +1,14 @@
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\SynesisIT.Infrastructure.Logger.dll
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\SynesisIT.Infrastructure.Logger.pdb
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.dll
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.xml
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\obj\Debug\SynesisIT.Infrastructure.Logger.dll
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\obj\Debug\SynesisIT.Infrastructure.Logger.pdb
+E:\Visual Studio 2010\Projects\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.config
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.config
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\SynesisIT.Infrastructure.Logger.dll
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\SynesisIT.Infrastructure.Logger.pdb
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.dll
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\bin\Debug\log4net.xml
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\obj\Debug\SynesisIT.Infrastructure.Logger.dll
+C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.Infrastructure.Logger\obj\Debug\SynesisIT.Infrastructure.Logger.pdb

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSignService", "PDFSignService\PDFSignService.csproj", "{15341F21-784E-4F00-A0E4-EDFF9FDB6D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynesisIT.PDFSign", "SynesisIT.PDFSign\SynesisIT.PDFSign.csproj", "{21F1576C-356B-42B0-BAEB-04D03BF476EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSignTestProject", "PDFSignTestProject\PDFSignTestProject.csproj", "{B8972816-DBE6-4BE4-9487-3D4AB5CA1C66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{312AD5F4-CE2B-447C-A71A-C402C174D50C}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PDFSignService.vsmdi = PDFSignService.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynesisIT.Infrastructure.Logger", "SynesisIT.Infrastructure.Logger\SynesisIT.Infrastructure.Logger.csproj", "{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PDFSignService.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15341F21-784E-4F00-A0E4-EDFF9FDB6D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15341F21-784E-4F00-A0E4-EDFF9FDB6D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15341F21-784E-4F00-A0E4-EDFF9FDB6D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15341F21-784E-4F00-A0E4-EDFF9FDB6D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F1576C-356B-42B0-BAEB-04D03BF476EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F1576C-356B-42B0-BAEB-04D03BF476EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F1576C-356B-42B0-BAEB-04D03BF476EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F1576C-356B-42B0-BAEB-04D03BF476EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8972816-DBE6-4BE4-9487-3D4AB5CA1C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8972816-DBE6-4BE4-9487-3D4AB5CA1C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8972816-DBE6-4BE4-9487-3D4AB5CA1C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8972816-DBE6-4BE4-9487-3D4AB5CA1C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

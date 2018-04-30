@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21F1576C-356B-42B0-BAEB-04D03BF476EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SynesisIT.PDFSign</RootNamespace>
+    <AssemblyName>SynesisIT.PDFSign</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\packages\iTextSharp.5.5.12\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CertificateInfo.cs" />
+    <Compile Include="Helper\ObjectPool.cs" />
+    <Compile Include="PDFSign.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\PDF\Bengali\Change_Contact_ban.pdf" />
+    <None Include="Content\PDF\Bengali\File_transfer_ban.pdf" />
+    <None Include="Content\PDF\Bengali\Jurisdiction_Finder_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_ajp_Ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_aop_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_company_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_HUF_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Ind_bd_maj_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Ind_bd_min_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Local_authority_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Other_than_bd_maj_bandocx.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Other_than_bd_min_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Registered_Firm_ban.pdf" />
+    <None Include="Content\PDF\Bengali\new_tin_Unregistered_Firm_ban.pdf" />
+    <None Include="Content\PDF\Bengali\Public_user_registration_ban.pdf" />
+    <None Include="Content\PDF\Bengali\reprint_ticket_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_AOP_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Artificial_juridical_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Company_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_HUF_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Ind_bd_maj_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Ind_bd_min_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Local_Authority_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Registered_Firm_ban.pdf" />
+    <None Include="Content\PDF\Bengali\re_tin_Unregistered_Firm_ban.pdf" />
+    <None Include="Content\PDF\Bengali\Ticket_Regenerate_ban.pdf" />
+    <None Include="Content\PDF\Bengali\Ticket_Status_ban.pdf" />
+    <None Include="Content\PDF\Bengali\user_Login_ban.pdf" />
+    <None Include="Content\PDF\Bengali\View_Tin_Certificate_ban.pdf" />
+    <None Include="Content\PDF\DulalChandraPanday.p12">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\PDF\DulalChandraPanday.p12.bak">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\PDF\DulalChandraPanday.p12.bak_1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\PDF\English\Change_Contact_eng.pdf" />
+    <None Include="Content\PDF\English\File_transfer_eng.pdf" />
+    <None Include="Content\PDF\English\Jurisdiction_Finder_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_AOP_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Artificial_juridical_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Company_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_HUF_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Ind_bd_maj_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Ind_bd_min_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Local_authority_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Other_than_bd_maj_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Other_than_bd_min_eng.pdf" />
+    <None Include="Content\PDF\English\new_tin_Registered_Firm_eng.pdf" />
+    <None Include="Content\PDF\English\new_Unregistered_Firm_eng.pdf" />
+    <None Include="Content\PDF\English\reprin _Ticket_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_AOP_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Artificial_juridical_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Company_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_HUF_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Ind_bd_maj_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Ind_bd_min_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Local_authority_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Other_than_bd_ min_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Other_than_bd_maj_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Registered_Firm_eng.pdf" />
+    <None Include="Content\PDF\English\re_tin_Unregistered_Firm_eng.pdf" />
+    <None Include="Content\PDF\English\Ticket_Regenerate_eng.pdf" />
+    <None Include="Content\PDF\English\Ticket_Status_eng.pdf" />
+    <None Include="Content\PDF\English\View_Tin_Certificate_eng.pdf" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\PDF\input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SynesisIT.Infrastructure.Logger\SynesisIT.Infrastructure.Logger.csproj">
+      <Project>{4DAF6C02-A11C-4045-B1EC-D84BE7AAF9C7}</Project>
+      <Name>SynesisIT.Infrastructure.Logger</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

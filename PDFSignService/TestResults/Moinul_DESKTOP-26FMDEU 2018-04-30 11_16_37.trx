@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fb7d78b6-acb1-40af-887c-29ec04d8dda2" name="Moinul@DESKTOP-26FMDEU 2018-04-30 11:16:37" runUser="DESKTOP-26FMDEU\Moinul" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="816ec862-b794-4e4e-981a-3dcfb42909b7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Moinul_DESKTOP-26FMDEU 2018-04-30 11_16_37">
+      <DeploymentItem filename="C:\Users\Moinul\Desktop\certificate\PDFSignService\SynesisIT.PDFSign\bin\Debug\SynesisIT.PDFSign.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-04-30T11:16:37.7275272+06:00" queuing="2018-04-30T11:16:41.0163727+06:00" start="2018-04-30T11:16:41.1206504+06:00" finish="2018-04-30T11:17:22.2556110+06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\moinul\desktop\certificate\pdfsignservice\pdfsigntestproject\bin\debug\pdfsigntestproject.dll" id="eaee23b5-b98b-3c74-07f3-3c3534241b2d">
+      <Execution id="11b170de-8fca-445f-b29f-08a89b32cba8" />
+      <TestMethod codeBase="C:/Users/Moinul/Desktop/certificate/PDFSignService/PDFSignTestProject/bin/Debug/PDFSignTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PDFSignTestProject.UnitTest1, PDFSignTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="eaee23b5-b98b-3c74-07f3-3c3534241b2d" executionId="11b170de-8fca-445f-b29f-08a89b32cba8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="11b170de-8fca-445f-b29f-08a89b32cba8" testId="eaee23b5-b98b-3c74-07f3-3c3534241b2d" testName="TestMethod1" computerName="DESKTOP-26FMDEU" duration="00:00:39.8792090" startTime="2018-04-30T11:16:41.2058762+06:00" endTime="2018-04-30T11:17:22.1763999+06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="11b170de-8fca-445f-b29f-08a89b32cba8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,23 @@
+[2018-04-16 17:54:44,357][DEBUG] PDFSignService.PDFSignService.GetSignedPDF(data) Start
+[2018-04-16 17:54:44,367][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.RentFromCache() Create new Instance
+[2018-04-16 17:54:44,757][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) Start
+[2018-04-16 17:54:44,757][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) End
+[2018-04-16 17:54:44,758][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Byte[] GetSignedPDF(Byte[]) Completed in 392.0977 ms (0.3920977 sec)
+[2018-04-16 18:01:08,031][DEBUG] PDFSignService.PDFSignService.GetSignedPDF(data) Start
+[2018-04-16 18:01:08,040][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.RentFromCache() Create new Instance
+[2018-04-16 18:01:08,989][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) Start
+[2018-04-16 18:01:08,989][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) End
+[2018-04-16 18:01:08,990][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Byte[] GetSignedPDF(Byte[]) Completed in 951.1108 ms (0.9511108 sec)
+[2018-04-16 18:02:23,068][DEBUG] PDFSignService.PDFSignService.GetSignedPDF(data) Start
+[2018-04-16 18:02:23,123][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) Start
+[2018-04-16 18:02:23,123][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) End
+[2018-04-16 18:02:23,123][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Byte[] GetSignedPDF(Byte[]) Completed in 55.1492 ms (0.0551492 sec)
+[2018-04-16 18:02:46,832][DEBUG] PDFSignService.PDFSignService.GetSignedPDF(data) Start
+[2018-04-16 18:02:52,220][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) Start
+[2018-04-16 18:09:53,272][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) End
+[2018-04-16 18:09:53,273][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Byte[] GetSignedPDF(Byte[]) Completed in 426439.7427 ms (426.4397427 sec)
+[2018-04-16 20:19:42,999][DEBUG] PDFSignService.PDFSignService.GetSignedPDF(data) Start
+[2018-04-16 20:19:43,041][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.RentFromCache() Create new Instance
+[2018-04-16 20:19:45,480][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) Start
+[2018-04-16 20:19:45,481][DEBUG] SynesisIT.PDFSign.Helper.ObjectPool`1.Return(obj) End
+[2018-04-16 20:19:45,481][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Byte[] GetSignedPDF(Byte[]) Completed in 2442.6218 ms (2.4426218 sec)

@@ -1,0 +1,43 @@
+[2018-04-25 13:10:34,719][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:10:35,403][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 642.8657 ms (0.6428657 sec)
+[2018-04-25 13:10:37,414][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:10:38,126][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 710.8234 ms (0.7108234 sec)
+[2018-04-25 13:10:38,748][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:10:39,368][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 617.9368 ms (0.6179368 sec)
+[2018-04-25 13:10:44,500][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:10:45,093][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 591.2612 ms (0.5912612 sec)
+[2018-04-25 13:11:34,424][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:11:34,426][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 0 ms (0 sec)
+[2018-04-25 13:11:35,908][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:11:35,915][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 7.0498 ms (0.0070498 sec)
+[2018-04-25 13:11:44,140][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:11:44,141][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 0 ms (0 sec)
+[2018-04-25 13:11:44,170][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:11:44,175][DEBUG] SynesisIT.Infrastructure.Logger.Logger.MethodTraceEnd(startTime) Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext) Completed in 5.5581 ms (0.0055581 sec)
+[2018-04-25 13:35:54,860][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:35:54,939][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Home],Action;[Index], TotalTime:[72]
+[2018-04-25 13:35:54,950][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:35:54,951][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Admin],Action;[Index], TotalTime:[0]
+[2018-04-25 13:35:54,970][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:35:55,060][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[TINHome],Action;[Index], TotalTime:[89]
+[2018-04-25 13:35:58,379][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:35:58,520][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[UserTypeMenu],Action;[Index], TotalTime:[139]
+[2018-04-25 13:36:02,988][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:02,990][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Registration],Action;[Login], TotalTime:[1]
+[2018-04-25 13:36:04,030][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:04,038][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[UserTypeMenu],Action;[Index], TotalTime:[8]
+[2018-04-25 13:36:08,279][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:08,725][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Registration],Action;[Login], TotalTime:[440]
+[2018-04-25 13:36:08,729][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:08,729][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Admin],Action;[Index], TotalTime:[0]
+[2018-04-25 13:36:08,744][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:08,744][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[TINHome],Action;[Index], TotalTime:[0]
+[2018-04-25 13:36:08,749][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:08,776][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[UserTypeMenu],Action;[Index], TotalTime:[26]
+[2018-04-25 13:36:34,891][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:42,640][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[TINHome],Action;[Index], TotalTime:[949]
+[2018-04-25 13:36:44,194][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuting(filterContext) Start
+[2018-04-25 13:36:44,843][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[UserTypeMenu],Action;[Index], TotalTime:[648]
+[2018-04-25 15:36:53,120][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Registration],Action;[Logout], TotalTime:[1]
+[2018-04-25 15:36:53,144][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[Registration],Action;[Login], TotalTime:[0]
+[2018-04-25 15:36:57,177][DEBUG] IFC_NBR_TIN_EF.Filters.ActionTimeFilter.OnActionExecuted(filterContext) Controller:[UserTypeMenu],Action;[Index], TotalTime:[51]
